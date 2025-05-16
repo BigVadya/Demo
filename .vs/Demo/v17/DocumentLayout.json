@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\\Desktop\\ALL\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|c:\\users\\v\\desktop\\all\\demo\\demo\\captchawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|solutionrelative:demo\\captchawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|c:\\users\\v\\desktop\\all\\demo\\demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|solutionrelative:demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|c:\\users\\v\\desktop\\all\\demo\\demo\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|solutionrelative:demo\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|c:\\users\\v\\desktop\\all\\demo\\demo\\captchawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|solutionrelative:demo\\captchawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|c:\\users\\v\\desktop\\all\\demo\\demo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|solutionrelative:demo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|c:\\users\\v\\desktop\\all\\demo\\demo\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70EF956C-FC6D-4314-BDCB-7445ABC94823}|Demo\\Demo.csproj|solutionrelative:demo\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\MainWindow.xaml",
+              "RelativeToolTip": "Demo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T12:30:31.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaptchaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\CaptchaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\CaptchaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\CaptchaWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\CaptchaWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:26:57.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Demo\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\AssemblyInfo.cs",
+              "RelativeToolTip": "Demo\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:25:31.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\UserWindow.xaml",
+              "RelativeToolTip": "Demo\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T12:17:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\AdminWindow.xaml",
+              "RelativeToolTip": "Demo\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T12:08:12.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaptchaWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\CaptchaWindow.xaml",
+              "RelativeDocumentMoniker": "Demo\\CaptchaWindow.xaml",
+              "ToolTip": "C:\\Users\\V\\Desktop\\ALL\\Demo\\Demo\\CaptchaWindow.xaml",
+              "RelativeToolTip": "Demo\\CaptchaWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T12:25:33.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
