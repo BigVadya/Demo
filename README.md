@@ -1,9 +1,7 @@
 # Create DB
 
 ```postgresql
--- (1) Создать базу (если ещё нет) и переключиться на неё:
--- CREATE DATABASE hotel;
--- В DBeaver в дереве правой кнопкой → Set Active → hotel
+-- Подключение Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=postgres;
 
 -- (2) Таблица ролей
 CREATE TABLE roles (
